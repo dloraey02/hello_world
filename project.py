@@ -4,3 +4,4 @@
 #Date: 10.10.2024
 #language: Python
 
+#paste components here:
